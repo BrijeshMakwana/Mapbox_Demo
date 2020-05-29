@@ -5,4 +5,6 @@ Step 2: In your info.plist file add your mapbox account token.
 
 Step 3: Copy ViewController.swift.
 
-![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
+![image](https://user-images.githubusercontent.com/51289240/83222183-4fd85c80-a195-11ea-836c-53dcb1f1e471.png)
+
+![image](https://user-images.githubusercontent.com/51289240/83222229-6bdbfe00-a195-11ea-8394-0b31b03610f3.png)
