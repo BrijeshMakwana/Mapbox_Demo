@@ -24,8 +24,8 @@ class ViewController: UIViewController {
         mapView.showsUserLocation = true
         mapView.setUserTrackingMode(.follow, animated: true)
         mapView.styleURL =  URL(string:a)
-        mapView.setCenter(CLLocationCoordinate2D(latitude: 21.7787473
-            , longitude: 72.1499052), zoomLevel: 14, animated: false)
+        mapView.setCenter(CLLocationCoordinate2D(latitude: 40.712776
+            , longitude: -74.005974), zoomLevel: 14, animated: false)
         view.addSubview(mapView)
         
       let styleToggle = UISegmentedControl(items: ["Day", "Night", "Satellite"])
